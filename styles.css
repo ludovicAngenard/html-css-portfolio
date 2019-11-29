@@ -2,3 +2,53 @@ html, body {
     margin: 0;
     padding: 0;
 }
+#logo{display:block;margin:50px auto; width:502px; height:135px;
+}
+#banderole{height:400px;background-image:url(images/hero.png);  background-position: center; margin-bottom:50px;
+}
+#banderole>p{
+ text-align:center;
+ padding-top:150px;
+ font-family: 'Playfair Display', serif;
+ font-size:60px;
+ color:white;
+ margin:0;
+ display:block;
+}
+#cadre{width:990px;display:block;margin:0px auto; height:valeur;}
+#texte{display:inline-block;}
+#texe>h1{font-family: 'Playfair Display', serif; height:30px;padding-bottom:30px;margin:0px;font-size:30px;
+}
+#texte>p{width:480px;margin:0;font-family: 'Open Sans', sans-serif;
+}
+#texte>h2{font-family: 'Playfair Display', serif; height:30px;padding-bottom:30px;float:right;margin:0px;font-size:18px;text-decoration:underline;
+}
+#image {width:480px;float:right;
+}
+#image>h2{position:relative; left:325px;text-decoration:underline;}
+#image>img{height:149px;width:225px;float:right;
+}
+.droite{margin-left:30px;
+}
+.haut{margin-bottom:30px;
+}
+.bas{margin-bottom:50px;float:clear;
+}
+#clear{clear:both;}
+#bout{margin-right:auto;margin-left:auto;display:block;width:990px;height:72px;}
+#bout>p{
+height:20px;	
+}
+#bout>p>a>button{
+	background-color:black;color:white;border:none;padding:20px; display:block;margin-right:auto;margin-left:auto;font-family: 'Playfair Display';font-size:24px; text-decoration:underline black;
+	}
+footer>div{background-color:black;height:167px;margin-top:80px;}
+li{display:inline-block; color:white; height:27px;padding-right:50px;font-size:16px;font-family: 'Playfair Display', serif;
+}
+#menu{width:990px;margin-left:auto; margin-right: auto;
+}
+ul{padding-left:25px;margin-top:0px;margin-bottom:0px;padding-top:70px;padding-bottom: 70px;display:inline-block;}
+#menu>img{
+    float:right; padding-top:50px;padding-right:25px;
+}
+footer a{text-decoration: none; color: white;}

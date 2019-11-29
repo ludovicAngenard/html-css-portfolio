@@ -1,0 +1,31 @@
+#logo{display:block;margin:50px auto; width:502px; height:135px;
+}
+#banderole{height:70px;background-image:url(images/hero.png);  background-position: center; margin-bottom:50px;
+}
+#banderole>p{
+ text-align:center;
+ padding-top:14px;
+ font-family: 'Playfair Display', serif;
+ font-size:32px;
+ color:white;
+ margin:0;
+ display:block;
+}
+#gallerysupp{width:990px;margin-right:auto;margin-left:auto;}
+#gallery{margin-left:-30px;}
+#gallery>a{margin-left:30px; margin-bottom:30px; float:left;text-decoration: none;
+}
+a>p{text-align:center;color:black;font-family: 'Open-sans', sans-serif;height:30px;margin-top:0px;margin-bottom:0px;}
+.img{height:199px;width:310px;
+ }
+ #clear{clear:both;}
+ footer>div{background-color:black;height:167px;margin-top:50px;}
+ li{display:inline-block; color:white; height:27px;padding-right:50px;font-size:16px;font-family: 'Playfair Display', serif;
+ }
+ #menu{width:990px;margin-left:auto; margin-right: auto;
+ }
+ ul{padding-left:25px;margin-top:0px;margin-bottom:0px;padding-top:70px;padding-bottom: 70px;display:inline-block;}
+ #menu>img{
+     float:right; padding-top:50px;padding-right:25px;
+ }
+ footer a{text-decoration: none; color: white;}
